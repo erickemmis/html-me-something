@@ -1,0 +1,41 @@
+
+main {
+	width: 80%;
+	margin: 0 auto;
+	background:#def6ff;
+	
+}
+
+#kid {
+	border-radius: 50%;
+	width: 200px;
+	margin:  0 auto;
+	display: block;
+	padding: 10px;
+}
+
+header {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	background:#def6ff
+
+}
+
+.emphasis {
+	font-size: 2em;
+	color: #6392ff;
+	font-weight: bold;
+	
+}
+
+article {
+	padding: 15px;
+}
+
+body {
+	font-family: Helvetica sans-serif;
+	background: #5ab5ff;
+}
+
+
