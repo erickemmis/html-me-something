@@ -3,15 +3,15 @@ main {
 	width: 80%;
 	margin: 0 auto;
 	background:#def6ff;
+	color: #003250;
+	
 	
 }
 
-#kid {
-	border-radius: 50%;
-	width: 200px;
-	margin:  0 auto;
-	display: block;
-	padding: 10px;
+#copyright {
+	color: #5ea9ff;
+	font-style: italic;
+
 }
 
 header {
@@ -19,6 +19,7 @@ header {
 	margin: 0 auto;
 	text-align: center;
 	background:#def6ff
+	color: #003250;
 
 }
 
@@ -38,4 +39,16 @@ body {
 	background: #5ab5ff;
 }
 
+ul li {
+	width: 33%;
+	float: left;
+}
+
+img {
+	display: inline-block;
+	width: 600px;
+	background: #293aff;
+	padding: 4px;
+	
+}
 
